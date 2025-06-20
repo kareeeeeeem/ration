@@ -18,9 +18,6 @@
             │   │   │   └── failure.dart
             │   │   ├── extensions/
             │   │   │   └── string_extensions.dart
-            │   │   ├── l10n/
-            │   │   │   ├── app_localizations.dart
-            │   │   │   └── generated/
             │   │   ├── network/
             │   │   │   ├── api_client.dart
             │   │   │   └── network_info.dart
@@ -28,9 +25,6 @@
             │   │   │   ├── auth_service.dart
             │   │   │   ├── storage_service.dart
             │   │   │   └── logger_service.dart
-            │   │   ├── theme/
-            │   │   │   ├── app_theme.dart
-            │   │   │   └── app_colors.dart
             │   │   ├── utils/
             │   │   │   ├── date_utils.dart
             │   │   │   └── validators.dart
