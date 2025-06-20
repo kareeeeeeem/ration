@@ -1,6 +1,6 @@
 # ration app
     
-/////////////////////////////////
+
 Complete project structure
     
     installment_management/
@@ -30,8 +30,7 @@ Complete project structure
     ├── test/
     └── pubspec.yaml
     
-    
-/////////////////////////////////
+
 Proposed structure for lib:
     
     lib/
@@ -76,7 +75,7 @@ Proposed structure for lib:
     
     
     
-/////////////////////////////////
+
 Proposed structure for clients :
     
     clients/
